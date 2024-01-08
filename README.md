@@ -11,8 +11,6 @@ dApp Name: Currency Market
 dApp Name for listing: CM
 http://13.125.218.146/
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with
-[`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
