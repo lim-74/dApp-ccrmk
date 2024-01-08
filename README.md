@@ -7,9 +7,9 @@ This app provides users with the ability to easily convert their cryptocurrency 
 
 It relays selling/buying and provides the ability to sell and buy on the exchange at the optimal price.
 
-dApp Name: Currency Market
-dApp Name for listing: CM
-http://13.125.218.146/
+dApp Name: Currency Market.
+dApp Name for listing: CM.
+http://13.125.218.146/.
 
 
 ## Getting Started
